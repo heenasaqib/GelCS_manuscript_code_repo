@@ -1,0 +1,36 @@
+Population,ONTOLOGY,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+M1 like,BP,GO:0035456,response to interferon-beta,23/191,65/28943,3.21E-34,2.11E-31,1.47E-31,Stat1/Ifit3/Ifi209/Bst2/Xaf1/Ifi204/Ifi214/Ifit1/Ifi211/Ifi202b/Mndal/Ifitm3/Gbp2/Ifi205/Igtp/Gbp2b/Ifi47/Oas1a/Gbp3/Gm12185/Gbp7/Ifi203/Iigp1,23
+M1 like,BP,GO:0031349,positive regulation of defense response,26/191,305/28943,2.38E-21,5.23E-19,3.64E-19,Ccl5/Fcer1g/Fcgr1/Irf7/Ifi209/Klrk1/Ifi204/Zbp1/Ifi214/Ifi211/C3/Mndal/Ifi205/Igtp/Nmi/Il1b/Znfx1/Trim30d/Ifi35/Gbp5/Trim30a/Jak2/Ccr2/Stap1/Ifi203/Cd74,26
+M1 like,BP,GO:0002821,positive regulation of adaptive immune response,19/191,161/28943,1.53E-18,2.37E-16,1.65E-16,Fcer1g/Fcgr1/Ptprc/C3/Rsad2/H2-T23/H2-Q4/H2-T22/H2-Q7/Il1b/Cd40/H2-K1/Jak2/Cd274/Ccr2/Pnp/H2-Q6/Cd74/H2-Ab1,19
+M1 like,BP,GO:0045089,positive regulation of innate immune response,18/191,142/28943,3.42E-18,4.74E-16,3.30E-16,Irf7/Ifi209/Klrk1/Ifi204/Zbp1/Ifi214/Ifi211/Mndal/Ifi205/Igtp/Nmi/Znfx1/Trim30d/Ifi35/Gbp5/Trim30a/Ifi203/Cd74,18
+M1 like,BP,GO:0050729,positive regulation of inflammatory response,11/191,148/28943,4.51E-09,1.16E-07,8.10E-08,Ccl5/Fcer1g/Fcgr1/Zbp1/C3/Nmi/Il1b/Ifi35/Jak2/Ccr2/Stap1,11
+M1 like,BP,GO:0032606,type I interferon production,9/191,112/28943,6.01E-08,1.26E-06,8.75E-07,Isg15/Stat1/Irf7/Ifih1/Gbp4/Rigi/Nmi/Oas3/Oas1a,9
+M1 like,BP,GO:0032607,interferon-alpha production,6/191,34/28943,8.80E-08,1.74E-06,1.21E-06,Stat1/Irf7/Ifih1/Gbp4/Rigi/Nmi,6
+M1 like,BP,GO:0032608,interferon-beta production,7/191,67/28943,3.04E-07,5.33E-06,3.71E-06,Isg15/Irf7/Ifih1/Rigi/Nmi/Oas3/Oas1a,7
+M1 like,BP,GO:0042116,macrophage activation,6/191,104/28943,6.78E-05,6.53E-04,4.55E-04,Aif1/Nmi/Ifi35/Jak2/Stap1/Thbs1,6
+M2 like 1,MF,GO:0005539,glycosaminoglycan binding,12/144,233/28404,2.79E-09,1.60E-07,1.10E-07,Nrp1/Pf4/Aplp2/Trem2/Gns/Cfh/Lpl/Stab1/Apoe/Fn1/Gpnmb/Ccl8,12
+M2 like 1,BP,GO:0070374,positive regulation of ERK1 and ERK2 cascade,12/150,227/28943,2.70E-09,8.86E-07,5.59E-07,Ccl6/Nrp1/Gas6/Pdgfc/Trem2/Igf1/Cd36/Lrp1/Apoe/Ccl9/Gpnmb/Ccl8,12
+M2 like 1,CC,GO:0062023,collagen-containing extracellular matrix,14/149,396/28804,2.08E-08,1.24E-06,7.69E-07,Timp2/Ctsd/Serpinb6a/Ctsb/Pf4/Pmp22/Igf1/Ctsl/Trf/Ecm1/F13a1/Plxdc2/Fn1/Lgals3,14
+M2 like 1,BP,GO:0042060,wound healing,13/150,380/28943,1.02E-07,9.70E-06,6.12E-06,Gas6/Pf4/Cfh/Ahnak/Igf1/Cd36/Apoe/F13a1/Fn1/Gpx1/Hmox1/Pdpn/Mmp12,13
+M2 like 1,BP,GO:0002683,negative regulation of immune system process,13/150,465/28943,1.00E-06,4.37E-05,2.75E-05,Trem2/Laptm5/Dusp3/Igf1/Cd84/Grn/C1qc/Mafb/Gpx1/Hmox1/Gpnmb/Lgals3/Mmp12,13
+M2 like 1,BP,GO:0010631,epithelial cell migration,11/150,328/28943,1.23E-06,5.01E-05,3.16E-05,Cd63/Nrp1/Glul/Igf1/Lgmn/Grn/Sash1/Rhob/Apoe/Gpx1/Hmox1,11
+M2 like 1,BP,GO:0045766,positive regulation of angiogenesis,7/150,182/28943,4.78E-05,8.44E-04,5.32E-04,Nrp1/Grn/Ecm1/Sash1/Rhob/Hmox1/Lgals3,7
+M2 like 1,BP,GO:0050777,negative regulation of immune response,7/150,194/28943,7.15E-05,1.18E-03,7.46E-04,Trem2/Cd84/Grn/Gpx1/Hmox1/Lgals3/Mmp12,7
+M2 like 1,BP,GO:0002695,negative regulation of leukocyte activation,7/150,202/28943,9.21E-05,1.38E-03,8.69E-04,Laptm5/Dusp3/Cd84/Grn/Hmox1/Gpnmb/Lgals3,7
+M2 like 1,BP,GO:0110148,biomineralization,6/150,188/28943,4.57E-04,4.55E-03,2.87E-03,Mtss1/Gas6/Igf1/Fam20c/Ecm1/Spp1,6
+M2 like 1,BP,GO:0030282,bone mineralization,5/150,131/28943,6.16E-04,5.55E-03,3.50E-03,Mtss1/Igf1/Fam20c/Ecm1/Spp1,5
+M2 like 1,BP,GO:0045453,bone resorption,4/150,79/28943,7.70E-04,6.61E-03,4.16E-03,Tpp1/Trf/Spp1/Ctsk,4
+M2 like 2,BP,GO:0042060,wound healing,26/190,380/28943,5.21E-19,9.11E-16,5.19E-16,Sdc1/Cav1/Gja1/Il1a/Slc7a11/F10/Ceacam1/Fn1/Pdpn/Anxa2/Hif1a/Cd9/Cd44/Gpx1/S100a10/Plaur/Plec/Cflar/Anxa1/Sdc4/Plek/Pla2g4a/Serpinb2/Tnf/Cd36/Pf4,26
+M2 like 2,BP,GO:0045446,endothelial cell differentiation,11/190,120/28943,4.55E-10,2.41E-08,1.37E-08,Ceacam1/Pdpn/Plcb1/Gpx1/Vcl/Met/Myadm/Ezr/Msn/Il1b/Tnf,11
+M2 like 2,BP,GO:0002064,epithelial cell development,14/190,245/28943,1.00E-09,4.62E-08,2.63E-08,Gja1/Il1a/Plcb1/Hif1a/Gpx1/Vcl/Met/Myadm/Ezr/Plec/Msn/Vim/Il1b/Tnf,14
+M2 like 2,BP,GO:0043542,endothelial cell migration,13/190,234/28943,5.67E-09,1.95E-07,1.11E-07,Atp2b4/Ceacam1/Itgb2/Gpi1/Hif1a/Gpx1/Met/Anxa3/Anxa1/Ptgs2/Lcn2/Sash1/Tnf,13
+M2 like 2,BP,GO:0043403,skeletal muscle tissue regeneration,6/190,47/28943,6.35E-07,1.04E-05,5.94E-06,Gja1/Pkm/Cd9/Gpx1/Cflar/Anxa1,6
+M2 like 2,BP,GO:0010595,positive regulation of endothelial cell migration,8/190,110/28943,6.88E-07,1.13E-05,6.41E-06,Gpi1/Hif1a/Met/Anxa3/Anxa1/Ptgs2/Lcn2/Sash1,8
+M2 like 2,BP,GO:0010634,positive regulation of epithelial cell migration,9/190,160/28943,1.20E-06,1.85E-05,1.06E-05,Gpi1/Hif1a/Mmp9/Met/Anxa3/Anxa1/Ptgs2/Lcn2/Sash1,9
+M2 like 2,BP,GO:0031214,biomineral tissue development,9/190,179/28943,3.04E-06,4.05E-05,2.31E-05,Gja1/Sgms2/Fam20a/Hif1a/Cebpb/Fgr/Fam20c/Ptgs2/Ecm1,9
+M2 like 2,BP,GO:0045766,positive regulation of angiogenesis,9/190,182/28943,3.49E-06,4.57E-05,2.60E-05,Il1a/Itgb2/Pkm/Hif1a/Mmp9/Anxa3/Il1b/Ecm1/Sash1,9
+M2 like 2,BP,GO:0010573,vascular endothelial growth factor production,5/190,36/28943,3.70E-06,4.74E-05,2.70E-05,Il1a/Hif1a/Il1b/Ptgs2/Tnf,5
+M2 like 2,BP,GO:0110148,biomineralization,9/190,188/28943,4.54E-06,5.56E-05,3.17E-05,Gja1/Sgms2/Fam20a/Hif1a/Cebpb/Fgr/Fam20c/Ptgs2/Ecm1,9
+M2 like 2,BP,GO:0042246,tissue regeneration,6/190,69/28943,6.29E-06,7.43E-05,4.23E-05,Gja1/Pkm/Cd9/Gpx1/Cflar/Anxa1,6
+M2 like 2,BP,GO:0030282,bone mineralization,7/190,131/28943,2.64E-05,2.51E-04,1.43E-04,Gja1/Sgms2/Hif1a/Fgr/Fam20c/Ptgs2/Ecm1,7
+M2 like 2,BP,GO:0001503,ossification,11/190,426/28943,1.28E-04,9.16E-04,5.22E-04,Gja1/Sgms2/Hif1a/Cebpb/Mmp9/Fgr/Fam20c/Areg/Ptgs2/Ecm1/Tnf,11
